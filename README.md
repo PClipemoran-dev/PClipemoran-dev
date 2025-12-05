@@ -116,7 +116,7 @@
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=007BFF"/>
   </a>
 
-  <a href="//https://www.instagram.com/lipemouran_/?next=%2F">
+  <a href="https://www.instagram.com/lipemouran_/?next=%2F">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=007BFF"/>
   </a>
 
