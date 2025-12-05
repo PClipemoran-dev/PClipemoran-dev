@@ -21,7 +21,7 @@
 <div align="center">
 
   <a href="https://www.unicid.edu.br/" target="_blank">
-    <img src="https://img.shields.io/badge/UNICID-008000?style=for-the-badge&logo=google-scholar&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/UNICID-ADD8E6?style=for-the-badge&logo=google-scholar&logoColor=fff"/>
   </a>
 
 </div>
