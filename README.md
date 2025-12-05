@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D4EDD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rikelmy+Anacleto+Lemos;I+study+analysis+and+systems+development+at+FECAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D4EDD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Moura+Do+Nascimento;I+study+analysis+and+systems+development+at+UNICID;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,19 +13,15 @@
   <div style="margin-top:10px; display:inline-block; padding:12px 24px; border-radius:14px;
               background:rgba(20,0,40,0.55); border:2px solid #A97BFF;">
     <strong style="letter-spacing:5px; color:#E6D7FF; font-size:22px;">
-
-
-
-     
-  Systems Analysis and Development Student at FECAP | Former SESI Student | Mechatronics Technician at SENAI
+      Systems Analysis and Development Student at UNICID | 
     </strong>
   </div>
 
 
 <div align="center">
 
-  <a href="https://www.fecap.br" target="_blank">
-    <img src="https://img.shields.io/badge/FECAP-008000?style=for-the-badge&logo=google-scholar&logoColor=fff"/>
+  <a href="https://www.unicid.edu.br/" target="_blank">
+    <img src="https://img.shields.io/badge/UNICID-008000?style=for-the-badge&logo=google-scholar&logoColor=fff"/>
   </a>
 
   <a href="https://www.sesisp.org.br/" target="_blank">
@@ -176,4 +172,3 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
-
