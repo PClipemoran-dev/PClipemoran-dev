@@ -112,7 +112,7 @@
 
 <div align="center">
 
-  <a href="mailto:SEU_EMAIL@GMAIL.COM">
+  <a href="mailto:filipee06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=007BFF"/>
   </a>
 
