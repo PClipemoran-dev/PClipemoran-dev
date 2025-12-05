@@ -13,9 +13,11 @@
   <div style="margin-top:10px; display:inline-block; padding:12px 24px; border-radius:14px;
               background:rgba(0,40,80,0.55); border:2px solid #00BFFF;">
     <strong style="letter-spacing:5px; color:#D1E8FF; font-size:22px;">
-      Systems Analysis and Development Student at UNICID | 
+      Systems Analysis and Development Student at UNICID
     </strong>
   </div>
+
+
 
 
 <div align="center">
